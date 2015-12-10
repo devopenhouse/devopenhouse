@@ -1,6 +1,10 @@
 # Dev Open House
 Aprenda programação com seus amigos no conforto de sua casa!
 
+<a href="#">
+<img src="https://lh3.googleusercontent.com/D_xXAozAPP1cLXNVcHod1B3_Ams2zDgfa_HcpNUsP66e6H__YL8H2_2AzkPLyPdFOeNq-T0YQ3p_v94FxTQRQuW6VyJhkYX8JE2z-80HQL5dhSqmSTypkYRtaqq4nsHvK6_Vc971D4G5QU1ElphaZ09PPNzsWIxqK7qUUIiOqsdZ_czOXvcH6e36EwKGXZeVDBIFe5bHLxjhBz9g0WxQIsaO78KeaZ9f4RS_ChXe-n_sq6gIPoi8rClKsB6gxwORqdvpgNWyo2E9sdFBeWpvXwe7kxLOu_kfxoi49Goax9yuX2u0Bf-fg8OmSbZejP4_jSWy8pM3flg1eKW2dOaqVWL4uoSzaftXzyaDEH13SfgYqyMg3V8RKjr5108KlYHVkC0KG-RKseBtl-102CJ32fFlFIM5pC0RqP4q-3iH76hsSEFrZ7xqL3vV72EQvMPqN-UNXptBhqMBzBZU2KfwhIoBkL0Eo9DqCqyYRvoTzpJ-I-67X3ildTcJzn5YPvnS6obLhPf1Y4uDyQpIqRQXLHeJ4RiDlfDG0qq22QoZBu6JnWxI6AxZMzEor-5IkanyOVb_=w726-h229-no">
+</a>
+
 ### O que é o #DevOpenHouse?
 Esse é uma modalidade de meetup que criei para trazer um ambiente mais `familiar` para alguns `eventos de software`.
 
@@ -14,6 +18,8 @@ Por fim, não deixem de falar comigo para que seja possível validar e evoluir e
 
 Este site foi feito usando o README do GitHub justamente para usarmos toda as funcionalidades dela para evoluir esse doc.
 Fiquei livre para mandar `issues` e `PR`.
+
+***
 
 Sou o [Jonatas Emidio](https://github.com/jonatasemidio) e vocês podem me achar no [@jonatasemidio](https://twitter.com/jonatasemidio)
 
