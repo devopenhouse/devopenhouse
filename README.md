@@ -20,4 +20,6 @@ Fiquei livre para mandar `issues` e `PR`.
 
 Sou o [Jonatas Emidio](https://github.com/jonatasemidio) e vocês podem me achar no [@jonatasemidio](https://twitter.com/jonatasemidio)
 
+***
 
+[http://jonatasemidio.github.io/devopenhouse/](http://jonatasemidio.github.io/devopenhouse/)
