@@ -26,5 +26,5 @@ Sou o [Jonatas Emidio](https://github.com/jonatasemidio) e vocês podem me achar
 
 ***
 
-####Powered by: 
+####Apoio: 
 <a href="https://plus.google.com/+GDGRiodeJaneiroOficial" target="_blank"><img src="http://farm1.staticflickr.com/591/23771435115_af0eaebc15_b.jpg"></a>
